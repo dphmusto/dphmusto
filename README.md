@@ -1,5 +1,9 @@
-## Hi there 👋
+## Welcome to my profile 👋
+I'm a current Statistics Master student at ETH Z&uumlrich, working on an assortment of RL/Statistics projects (which will soon appear here).
 
+Contact me at: dmusto@ethz.ch
+
+I'm happy to answer any questions!
 <!--
 **dphmusto/dphmusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
